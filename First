@@ -1,0 +1,75 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyM3mcEwsDnXlM9pBY2uzcCt",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/squantaai/technical-discussion/blob/main/First\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 4,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 35
+        },
+        "id": "KrKM5I_MI2_g",
+        "outputId": "b7c4ef8c-fcbc-4e6e-ccf2-74ad62d6cda5"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "'Assalamualaikum ! This is the first cloud program'"
+            ],
+            "application/vnd.google.colaboratory.intrinsic+json": {
+              "type": "string"
+            }
+          },
+          "metadata": {},
+          "execution_count": 4
+        }
+      ],
+      "source": [
+        "def helloworld():\n",
+        "    return \"Assalamualaikum ! This is the first cloud program\"\n",
+        "\n",
+        "helloworld()"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Modeling\n",
+        "Learning\n",
+        "Development\n"
+      ],
+      "metadata": {
+        "id": "Zr_cdyA-Jcji"
+      }
+    }
+  ]
+}
